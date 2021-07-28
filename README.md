@@ -1,1 +1,9 @@
-# certificados-platzi
+
+### Link: [Perfil en Platzi](https://platzi.com/p/edgard/)
+
+| FECHA | CERTIFICADO | HORAS
+|--|--|--
+| 28-JUL-2021 | **[Curso de PostgreSQL](#curso-de-postgresql)** |  15 horas
+
+#### Curso de PostgreSQL
+![enter image description here](https://raw.githubusercontent.com/ebarquero85/certificados-platzi/main/img/18%20-%2028072021%20-%20Curso%20de%20PostgreSQL.jpg)
